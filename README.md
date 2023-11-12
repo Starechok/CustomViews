@@ -37,3 +37,12 @@ findViewById<StatsView>(R.id.stats).data = listOf(
 ![изображение3](https://user-images.githubusercontent.com/93938031/206431824-7f8c28e6-fd1c-4dd7-8d91-7556e7ac8788.png)
 
 </details>
+
+### Домашнее задание к занятию «2.2. Animations — создание анимаций. Часть 1»
+
+<details close><summary> Задача Rotation* </summary>
+    <br>
+
+Реализована анимация с поворотом на **360 градусов**.
+
+</details>
